@@ -389,7 +389,7 @@ public class HtmlPageBuilder implements PageProvider {
                                     <span class="project-tag">OOP</span>
                                     <br>
                                     <a class="project-link"
-                                       href="https://github.com/nilsuguven?tab=repositories"
+                                       href="https://github.com/nilsuguven/JavaSocketWebServer"
                                        target="_blank">GitHub'da incele →</a>
                                 </div>
 
