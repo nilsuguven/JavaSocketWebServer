@@ -1,0 +1,16 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+
+# Maven
+target/
+
+# Mac OS
+.DS_Store
+
+# VS Code
+.vscode/
